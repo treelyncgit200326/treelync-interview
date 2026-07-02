@@ -12,6 +12,7 @@ const roles = [
   { title: 'Soft Skills & HR', emoji: '🤝', desc: 'Professional etiquette, teamwork & workplace skills' },
   { title: 'Aptitude & Logic', emoji: '🧠', desc: 'Numerical ability, logical & verbal reasoning' },
   { title: 'Communication Skills', emoji: '🗣️', desc: 'Pronunciation, accent neutralization & fluency' },
+  { title: 'Product & Operations Analyst', emoji: '🚀', desc: 'Product ops, founder office, BA, GTM & chief of staff prep' },
 ]
 
 export default function SelectRole() {
